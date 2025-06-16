@@ -28,7 +28,7 @@ This project is a simple and elegant Italian restaurant website design created u
 
 ## Project Preview
 
-![Menu Image 1](images/1.jpg)
-![Menu Image 2](images/2.jpg)
+![Menu Image 1](images/1.png)
+![Menu Image 2](images/2.png)
 
 Thank you! I welcome any feedback and suggestions.  
